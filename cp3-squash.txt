@@ -1,0 +1,5 @@
+ea7452a (HEAD) Agrupa cambios de líneas extra en app
+930f97a (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+Agrupar commits (squash) es útil para limpiar el historial. Por ejemplo, si hiciste varios commits pequeños o con mensajes poco claros, puedes combinarlos en uno solo antes de hacer un pull request, así es más fácil de entender para otros.

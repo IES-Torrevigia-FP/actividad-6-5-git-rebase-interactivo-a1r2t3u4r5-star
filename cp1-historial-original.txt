@@ -1,0 +1,6 @@
+a151c9d (HEAD -> main) otro commit
+25b526c arreglo
+cce196e wip 1
+6f0cb65 Commit 1: versión inicial
+930f97a (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit

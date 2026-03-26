@@ -1,0 +1,8 @@
+2df9144 (HEAD -> main) otro commit
+8cffedf Añade línea extra 2 en app
+fccd12d Añade línea extra 1 en app
+6f0cb65 Commit 1: versión inicial
+930f97a (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+reword en un rebase interactivo permite modificar el mensaje de un commit sin cambiar su contenido. Git detiene el proceso y abre el editor para que puedas escribir un nuevo mensaje más descriptivo.

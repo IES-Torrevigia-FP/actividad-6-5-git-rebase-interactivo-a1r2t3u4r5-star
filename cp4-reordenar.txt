@@ -1,0 +1,10 @@
+0489019 (HEAD -> main) otro commit
+31c9d76 Cambio A
+7425076 Cambio B
+8cffedf Añade línea extra 2 en app
+fccd12d Añade línea extra 1 en app
+6f0cb65 Commit 1: versión inicial
+930f97a (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+Reordenar commits ayuda a que el historial sea más claro y fácil de entender.

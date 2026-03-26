@@ -1,0 +1,37 @@
+El comando git rebase --abort.
+Se usa cuando estás haciendo un rebase y encuentras conflictos que no quieres o no puedes resolver, y deseas cancelar el rebase para volver al estado previo.
+
+error: could not apply 595c9bb... Añadeee el archivo modificado
+CONFLICT (content): Merge conflict in app.md
+
+
+rebase in progress; onto 8cffedf
+You are currently rebasing branch 'main' on '8cffedf'.
+  (all conflicts fixed: run "git rebase --continue")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   app.md
+
+
+En la rama main
+Tu rama está adelantada a 'origin/main' por 6 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp1-historial-original.txt
+	cp2-reword.txt
+	cp3-squash.txt
+	cp4-reordenar.txt
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+0489019 (HEAD -> main) otro commit
+31c9d76 Cambio A
+7425076 Cambio B
+8cffedf Añade línea extra 2 en app
+fccd12d Añade línea extra 1 en app
+6f0cb65 Commit 1: versión inicial
+930f97a (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
